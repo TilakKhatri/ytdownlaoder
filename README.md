@@ -1,2 +1,1 @@
-reference
-https://en.savefrom.net/387/
+# For personal use.
